@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YgoProbabilityCore", "YgoProbabilityCore\YgoProbabilityCore.csproj", "{C74AA2F6-877A-4175-A47D-D9B56F661D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YgoProbabilitySample", "YgoProbabilitySample\YgoProbabilitySample.csproj", "{F98C46FF-2B43-4CFB-B38C-99AE18C4CCF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74AA2F6-877A-4175-A47D-D9B56F661D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74AA2F6-877A-4175-A47D-D9B56F661D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74AA2F6-877A-4175-A47D-D9B56F661D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74AA2F6-877A-4175-A47D-D9B56F661D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98C46FF-2B43-4CFB-B38C-99AE18C4CCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98C46FF-2B43-4CFB-B38C-99AE18C4CCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98C46FF-2B43-4CFB-B38C-99AE18C4CCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98C46FF-2B43-4CFB-B38C-99AE18C4CCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1777DC-86EF-4816-A30B-30B5E6950EA4}
+	EndGlobalSection
+EndGlobal
